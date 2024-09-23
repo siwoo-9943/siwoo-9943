@@ -5,6 +5,8 @@
 ![siwoo GitHub stats](https://github-readme-stats.vercel.app/api?username=siwoo-9943&show_icons=true&theme=gotham)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=siwoo-9943)](https://solved.ac/siwoo-9943)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwoo-9943&layout=compact)
+
 
 
 
