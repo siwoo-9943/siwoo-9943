@@ -25,12 +25,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-4B4B77.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-004027.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![thymeleaf](https://img.shields.io/badge/thymeleaf-3A75BD.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 
 🗄 Database
 
 ![Oracle](https://img.shields.io/badge/Oracle-77AA99.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-4479A1.svg?&style=for-the-badge&logo=MyBatis&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-F1BF7A.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![dbeaver](https://img.shields.io/badge/dbeaver-382923.svg?&style=for-the-badge&logo=dbeaver&logoColor=white)
 
 
