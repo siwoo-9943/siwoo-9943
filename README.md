@@ -1,4 +1,5 @@
-## ✨안녕하세요. 정시우입니다.✨
+![header](https://capsule-render.vercel.app/api?type=waving&color=E1DACA&height=200&section=header&text=✨안녕하세요,%20백엔드%20개발자%20정시우입니다.✨&fontSize=30&animation=twinkling&fontAlign=50&fontAlignY=40&customPadding=0)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiwoo-9943&count_bg=%23F6E7CD&title_bg=%23EBD6A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -6,6 +7,51 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=siwoo-9943)](https://solved.ac/siwoo-9943)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwoo-9943&layout=compact)
+
+---
+
+## 📁 Projects
+
+<img width="300" alt="스크린샷 2024-11-27 162133" src="https://github.com/user-attachments/assets/0c0939e2-7ad3-4155-b622-491991ac570a">
+
+
+### [희멍의 집](https://github.com/siwoo-9943/HOPEDOG-Backend.git)
+
+### 서비스 제작 배경
+
+- 유기견 입양과 기부 활동을 촉진하는 온라인 커뮤니티 플랫폼입니다.
+- 유기견의 보호와 입양 촉진을 목표로 개발되었습니다.
+
+<br>
+
+
+<img width="230" alt="224" src="https://github.com/user-attachments/assets/de04c8e5-04e4-484e-9ebf-61ec1e8513e4" width="200"/>
+
+### [2호선을 2용하는 4람들](https://github.com/siwoo-9943/224-Backend.git)
+### 서비스 제작 배경
+
+- 서울 2호선은 유동인구가 많아 정보 접근이 어려운 상황입니다.
+- 이를 해결하기 위해 이용객에게 유용한 정보를 제공하는 커뮤니티 플랫폼입니다.
+- 주변 시설 및 관광지 정보를 통합하여 접근성 개선 및 커뮤니티 활성화를 목표로 개발하였습니다.
+
+<br>
+
+<img width="200" alt="코딩엔젤" src="https://github.com/user-attachments/assets/bbd6f8e9-aace-49f9-ae01-2e0d3406d845" width="200"/>
+
+### [코딩엔젤](https://github.com/siwoo-9943/CodingAngel.git)
+- 래퍼사이트는 티몬으로 선정하여 HTML과 CSS, JavaScript를 활용한 로그인, 회원가입, 입접문의 기능과 메인페이지의 배너를 구현 했습니다.
+
+
+<br>
+<img width="375" alt="카카오" src="https://github.com/user-attachments/assets/95703ca9-e670-4f9a-89e3-f296610591f9">
+
+
+### [kakao 클론코딩](https://github.com/siwoo-9943/cloncoding.git)
+- kakao 메인페이지 클론코딩을 진행하였습니다.
+- HTML 구조 파악을 위해 시맨틱태그를 활용하여 구조를 잡고, 헤더, 푸터, 메인 등 총 8개의 큰 섹션으로 나누었습니다.
+
+    
+---
 
 
 
